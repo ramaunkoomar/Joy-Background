@@ -15,7 +15,7 @@ Check out [API LIVE DEMO](https://joybackground-backend.herokuapp.com/admin/) he
 ## How to Install
 1. Git Clone
 ```
-git clone git@github.com:Tech-i-s/techis-wd-forum-django-react.git
+git clone https://github.com/ramaunkoomar/Joy-Background/tree/main
 ```
 2. Backend setting
 ```
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
-# Open http://127.0.0.1:8000/posts/
+# Open http://127.0.0.1:8000
 ```
 3. Frontend setting
 ```
