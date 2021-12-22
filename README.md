@@ -14,7 +14,7 @@ Check out [API LIVE DEMO](https://joybackground-backend.herokuapp.com) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone https://github.com/ramaunkoomar/Joy-Background/tree/main
+git clone https://github.com/ramaunkoomar/Joy-Background.git
 ```
 2. Backend setting
 ```
